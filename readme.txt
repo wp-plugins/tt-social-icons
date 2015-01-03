@@ -21,23 +21,26 @@ By default exact social color
 Easily Customizable and managable code
 Most Popular Social Networks.
 
-Facebook
-Twitter
-Google+
-Pinterest
-Dribble
-Behance
-InstaGram
-LinkedIn
-Delicious
-SoundCloud
-Youtube
-Flicker
-Vimeo
-Github
-Tumblr
-Android
-Digg
+
+<ul>
+	<li>Facebook</li>
+	<li>Twitter</li>
+	<li>Google+</li>
+	<li>Pinterest</li>
+	<li>Dribble</li>
+	<li>Behance</li>
+	<li>InstaGram</li>
+	<li>LinkedIn</li>
+	<li>Delicious</li>
+	<li>SoundCloud</li>
+	<li>Youtube</li>
+	<li>Flicker</li>
+	<li>Vimeo</li>
+	<li>Github</li>
+	<li>Tumblr</li>
+	<li>Android</li>
+	<li>Digg</li>
+</ul>
 
 That's it!.
 

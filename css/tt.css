@@ -1,0 +1,108 @@
+.tt-social-link ul{
+	margin-left:-1px;
+	margin-right:-1px;
+}
+.tt-social-link li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 1px 5px 1px;
+}
+
+.tt-social-link li i{
+	text-align: center;
+	border-radius: 2px;
+	color:#fff;
+	text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.50);
+	border-bottom: 3px solid rgba(0, 0, 0, 0.30);
+	-webkit-transition:all 400ms;
+	-moz-transition:all 400ms;
+	-o-transition:all 400ms;
+	transition:all 400ms;
+}
+
+.tt-social-link li i:hover{
+	border-bottom:3px solid transparent;
+	text-shadow:none;
+}
+
+.tt-social-link li a:focus,
+.tt-social-link li i:focus{
+	outline: none;
+}
+
+.tt-social-link li.small i{
+	font-size: 16px;
+	width:30px;
+	height:30px;
+	line-height: 30px;
+}
+
+.tt-social-link li.medium i{
+	font-size: 24px;
+	width:45px;
+	height:45px;
+	line-height: 45px;
+}
+
+.tt-social-link li.large i{
+	font-size: 30px;
+	width:60px;
+	height:60px;
+	line-height: 60px;
+}
+
+.facebook i{
+	background:#3B5997;
+}
+
+.twitter i{
+	background:#29C5F6;
+}
+
+.google i{
+	background:#D13D2F;
+}
+
+.pinterest{
+	background:#C61118;
+}
+.dribbble{
+	background:#FF5C93;
+}
+.behance{
+	background:#12C5EF;
+}
+.instagram{
+	background:#8A9FAE;
+}
+.linkedin{
+	background:#2C91DC;
+}
+.delicious{
+	background:#457E9B;
+}
+.soundcloud{
+	background:#FF5419;
+}
+.youtube{
+	background:#D72A24;
+}
+.flickr{
+	background:#ED1983;
+}
+.vimeo{
+	background:#0FACD7;
+}
+.github{
+	background:#000000;
+}
+.tumblr{
+	background:#304E6C;
+}
+.android{
+	background:#B2CE49;
+}
+.digg{
+	background:#546BA0;
+}
+
